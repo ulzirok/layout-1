@@ -1,0 +1,208 @@
+@media (max-width: 1199.98px){
+  header .col-xl-6{
+    margin-bottom: 20px;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  header{
+    padding-bottom: 120px;
+  }
+  .navbar{
+    margin-bottom: 100px;
+  }
+}
+@media (max-width: 991.98px){
+  .navbar-toggler-icon{
+    width: 50px;
+    height: 40px;
+   background-image: url('../images/navbar-toggle-icon-menu-hamburger-png-white--m2i8i8A0K9A0H7b1.png');
+   background-size: cover;
+  }
+  header{
+    padding-bottom: 80px;
+  }
+  .title-main{
+    font-size: 43px;
+  }
+  .nav-item{
+    width: 40%;
+    margin: 0 auto;
+    text-align: center;
+    /* border: 1px solid #fff; */
+    /* display: flex;
+   justify-content: center; */
+  }
+  .card-body{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    
+  }
+  .services img{
+    width: 250px;
+    margin: 0 auto;
+    margin-bottom: 10px;
+  }
+  .collapse-text{
+    text-align: center;
+   
+  }
+  .services .text{
+    margin-bottom: 20px;
+  }
+  .services{
+    padding: 40px 0 60px;
+  }
+  .started .col-12{
+   text-align: center;
+  }
+  .started .text{
+    margin-bottom: 60px;
+  }
+  .team .col-12{
+    margin-bottom: 15px;
+   
+  }
+  .team .col-12 .circle-team{
+    margin: 0 auto;
+  }
+  .team .col-12 .circle-team-big{
+    margin: 0 auto;
+  }
+
+}
+@media (max-width: 767.98px){
+  .title-main{
+    font-size: 32px;
+  }
+  .navbar{
+    margin-bottom: 50px;
+  }
+  .easy .row{
+    justify-content: center !important;
+  }
+  .easy .text{
+    margin-bottom: 70px;
+  }
+  .easy{
+    padding: 70px 0 65px;
+  }
+  .started .comment{
+    display: flex;
+    flex-direction: column;
+    justify-content: center !important;
+    align-items: center;
+    text-align: center;
+  }
+  .started .circle-photo{
+    /* width: 100%; */
+    margin: 0 0 10px 0;
+    
+  }
+}
+@media (max-width: 575.98px){
+  .wrap-btn1{
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+  }
+  .btn-link1{
+    font-size: 12px;
+    padding: 10px;
+  }
+  .btn-link-blue1{
+    margin-bottom: 10px;
+    font-size: 12px;
+    padding: 10px;
+  }
+  .wrap-video{
+    width: 100%;
+    height: 170px;
+  }
+  .video-inside{
+    width: 100%;
+    height: 170px;
+  }
+  .title-main{
+    font-size: 23px;
+  }
+  .title-main{
+    font-size: 20px;
+    line-height: 32px;
+  }
+  .wrap-logo{
+    width: 100%;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-around;
+  }
+  .sign{
+    margin-right: 0;
+  }
+  .easy .title{
+    font-size: 20px;
+  }
+  .easy h3{
+    font-size: 20px;
+  }
+  .easy .row{
+    flex-direction: column;
+    align-items: center;
+  }
+  .card-header{
+    padding: 15px;
+  }
+  .started .comment .text{
+    font-size: 16px;
+  }
+  .started .john{
+    padding: 10px;
+  }
+  .started .comment .subtitle{
+    font-size: 16px;
+  }
+  .started{
+    padding: 40px 0 0;
+  }
+  .team .circle-team-big{
+    width: 150px;
+    height: 150px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  .team .circle-team-big img{
+    width: 100px;
+    height: 100px;
+
+  }
+  form .btn-link1{
+    font-size: 14px;
+    padding: 15px;
+  }
+  form .col-sm-4{
+    margin-top: 20px;
+    justify-content: center;
+  }
+  form .col-sm-6{
+    margin-top: 20px;
+    justify-content: center;
+  }
+  .video-inside .fa{
+    font-size: 30px;
+    color: #061e37;
+    text-transform: uppercase;
+    line-height: 10px;
+}
+.video-inside .fa span{
+    font-size: 10px;
+}
+.video .col-sm-7 iframe{
+  margin-bottom: 20px;
+  height: 250px;
+}
+
+}
